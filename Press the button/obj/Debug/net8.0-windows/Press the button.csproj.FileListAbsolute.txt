@@ -1,0 +1,17 @@
+C:\Users\Daniel-NTB\source\repos\Press the button\Press the button\bin\Debug\net8.0-windows\Press the button.exe
+C:\Users\Daniel-NTB\source\repos\Press the button\Press the button\bin\Debug\net8.0-windows\Press the button.deps.json
+C:\Users\Daniel-NTB\source\repos\Press the button\Press the button\bin\Debug\net8.0-windows\Press the button.runtimeconfig.json
+C:\Users\Daniel-NTB\source\repos\Press the button\Press the button\bin\Debug\net8.0-windows\Press the button.dll
+C:\Users\Daniel-NTB\source\repos\Press the button\Press the button\bin\Debug\net8.0-windows\Press the button.pdb
+C:\Users\Daniel-NTB\source\repos\Press the button\Press the button\obj\Debug\net8.0-windows\Press_the_button.Form1.resources
+C:\Users\Daniel-NTB\source\repos\Press the button\Press the button\obj\Debug\net8.0-windows\Press the button.csproj.GenerateResource.cache
+C:\Users\Daniel-NTB\source\repos\Press the button\Press the button\obj\Debug\net8.0-windows\Press the button.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel-NTB\source\repos\Press the button\Press the button\obj\Debug\net8.0-windows\Press the button.AssemblyInfoInputs.cache
+C:\Users\Daniel-NTB\source\repos\Press the button\Press the button\obj\Debug\net8.0-windows\Press the button.AssemblyInfo.cs
+C:\Users\Daniel-NTB\source\repos\Press the button\Press the button\obj\Debug\net8.0-windows\Press the button.csproj.CoreCompileInputs.cache
+C:\Users\Daniel-NTB\source\repos\Press the button\Press the button\obj\Debug\net8.0-windows\Press the button.dll
+C:\Users\Daniel-NTB\source\repos\Press the button\Press the button\obj\Debug\net8.0-windows\refint\Press the button.dll
+C:\Users\Daniel-NTB\source\repos\Press the button\Press the button\obj\Debug\net8.0-windows\Press the button.pdb
+C:\Users\Daniel-NTB\source\repos\Press the button\Press the button\obj\Debug\net8.0-windows\Press the button.genruntimeconfig.cache
+C:\Users\Daniel-NTB\source\repos\Press the button\Press the button\obj\Debug\net8.0-windows\ref\Press the button.dll
+C:\Users\Daniel-NTB\source\repos\Press the button\Press the button\obj\Debug\net8.0-windows\Press_the_button.Properties.Resources.resources
